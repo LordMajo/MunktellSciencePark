@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{7B26850B-DEF7-7D67-D5FF-D129521651DF}") = "MunktellSciencePark", "Assembly-CSharp.csproj", "{39B704D0-8431-8C60-D6BC-63028F787DF8}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunktellSciencePark", "Assembly-CSharp.csproj", "{39B704D0-8431-8C60-D6BC-63028F787DF8}"
 EndProject
-Project("{7B26850B-DEF7-7D67-D5FF-D129521651DF}") = "MunktellSciencePark", "Assembly-CSharp-Editor.csproj", "{ADABC254-1D81-08B1-5C9E-342BC7466B16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MunktellSciencePark", "Assembly-CSharp-Editor.csproj", "{ADABC254-1D81-08B1-5C9E-342BC7466B16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
