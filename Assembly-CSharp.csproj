@@ -84,8 +84,10 @@
      <Compile Include="Assets\Scripts\Mqtt\Utility\QueueExtension.cs" />
      <Compile Include="Assets\Scripts\Mqtt\Utility\Trace.cs" />
      <Compile Include="Assets\Scripts\SpinFree.cs" />
+     <Compile Include="Assets\Scripts\invert_gravity_on_object.cs" />
      <Compile Include="Assets\Scripts\skyboxspace_demo_v1.cs" />
      <Compile Include="Assets\Scripts\skyboxspace_mouselook_v1.cs" />
+     <Compile Include="Assets\Scripts\spawn_CO2.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
