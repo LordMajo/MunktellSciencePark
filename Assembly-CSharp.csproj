@@ -46,11 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CollisionSound.cs" />
-     <Compile Include="Assets\HoverVolume.cs" />
      <Compile Include="Assets\Movies\Play_movie.cs" />
+     <Compile Include="Assets\Scripts\CollisionSound.cs" />
+     <Compile Include="Assets\Scripts\DuplicatePrefab.cs" />
      <Compile Include="Assets\Scripts\Handcontrollers\HandController.cs" />
      <Compile Include="Assets\Scripts\Handcontrollers\test.cs" />
+     <Compile Include="Assets\Scripts\HoverVolume.cs" />
      <Compile Include="Assets\Scripts\Mqtt\Exceptions\MqttClientException.cs" />
      <Compile Include="Assets\Scripts\Mqtt\Exceptions\MqttCommunicationException.cs" />
      <Compile Include="Assets\Scripts\Mqtt\Exceptions\MqttConnectionException.cs" />
