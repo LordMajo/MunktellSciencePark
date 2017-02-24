@@ -15,7 +15,7 @@ public class CollisionSound : MonoBehaviour {
 
 	void OnCollisionEnter(Collision coll) {
 	
-		source.PlayOneShot (boing, 1f);
+		source.PlayOneShot (boing, 0.5f);
 
 	}
 
